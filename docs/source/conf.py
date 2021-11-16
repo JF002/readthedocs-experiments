@@ -4,7 +4,7 @@
 
 project = 'readthedoc-experiments'
 copyright = '2021, JF'
-author = 'Graziella'
+author = 'JF'
 
 release = '0.1'
 version = '0.1.0'
@@ -19,6 +19,8 @@ extensions = [
     'sphinx.ext.intersphinx',
     'myst_parser',
 ]
+
+source_suffix = ['.md']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
