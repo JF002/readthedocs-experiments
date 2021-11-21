@@ -1,16 +1,12 @@
 # InfiniTime
 
-## Table of content
-
-* [What is InfiniTime](what-is-infinitime/index.md) 
-* [User documentation](user-documentation/index.md)
-* [Developer documentation](developer-documentation/index.md)
-* [Build, flash and debug](build-flash-and-debug/index.md)
-* How to contribute
-* Going further
-  * The [PineTime wiki](https://wiki.pine64.org/wiki/PineTime)
-  * InfiniTime resources from other people
-    * Videos
-    * Articles
-* Licenses
-* Credits
+```{toctree}
+what-is-infinitime/index.md
+user-documentation/index.md
+developer-documentation/index.md
+build-flash-and-debug/index.md
+how-to-contribute.md
+going-further.md
+licences.md
+credits.md
+```
